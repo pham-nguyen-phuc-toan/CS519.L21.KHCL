@@ -10,4 +10,9 @@
 |      Nguyễn Tấn Phúc      |  18521259  |   Thành viên    |
 
 ## 2. Bài tập
-**Tuần 2** 
+
+### **Tuần 2**
+
+**QT11: TÌM KIẾM GOOGLE NÂNG CAO**
+
+[Bài làm](https://github.com/pham-nguyen-phuc-toan/CS519.L21.KHCL/blob/main/Week2/QT11.md).

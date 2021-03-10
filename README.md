@@ -15,4 +15,4 @@
 
 - **QT11: TÌM KIẾM GOOGLE NÂNG CAO**
 
-  [Bài làm](docs/Week2/QT11.md)
+  [Bài làm](Week2/QT11.md)

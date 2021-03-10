@@ -16,3 +16,19 @@
 - **QT11: TÌM KIẾM GOOGLE NÂNG CAO**
 
   [Bài làm](Week2/QT11.md)
+
+- **QT12: CÁCH SỬ DỤNG GOOGLE SCHOLAR**
+
+- **QT13: SITE LƯU TRỮ BÀI BÁO KH**
+
+- **QT14: TẠO MINDMAP LIÊN QUAN ĐẾN BÀI BÁO KH**
+
+- **QT15: SỬ DỤNG OVERLEAF**
+
+- **QT16: PHẦN MỀM QUẢN LÝ TÀI LIỆU THAM KHẢO VÀ TRÍCH DẪN**
+
+- **QT17: XẾP HẠNG HỘI NGHI, TẠP CHÍ**
+
+- **QT18: SỬ DỤNG CONNECTEDPAPERS**
+
+- **QT19: SỬ DỤNG PAPERSWITHCODE**

@@ -13,6 +13,6 @@
 
 ### **Tuần 2**
 
-**QT11: TÌM KIẾM GOOGLE NÂNG CAO**
+- **QT11: TÌM KIẾM GOOGLE NÂNG CAO**
 
-[Bài làm](https://github.com/pham-nguyen-phuc-toan/CS519.L21.KHCL/blob/main/Week2/QT11.md).
+  [Bài làm](docs/Week2/QT11.md)

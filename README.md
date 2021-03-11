@@ -1,4 +1,4 @@
-# **CS519.L21.KHCL**
+# **CS519.L21.KHCL - Phương pháp luận nghiên cứu khoa học**
   
   
 ## 1. Thành viên

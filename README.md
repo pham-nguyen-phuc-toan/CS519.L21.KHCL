@@ -13,11 +13,9 @@
 
 ### **Tuần 2**
 
-- **QT11: TÌM KIẾM GOOGLE NÂNG CAO**
+- [x] [QT11: TÌM KIẾM GOOGLE NÂNG CAO](Week2/QT11.md)
 
-  [Bài làm](Week2/QT11.md)
-
-- **QT12: CÁCH SỬ DỤNG GOOGLE SCHOLAR**
+- QT12: CÁCH SỬ DỤNG GOOGLE SCHOLAR
 
 - **QT13: SITE LƯU TRỮ BÀI BÁO KH**
 
@@ -27,9 +25,7 @@
 
 - **QT16: PHẦN MỀM QUẢN LÝ TÀI LIỆU THAM KHẢO VÀ TRÍCH DẪN**
 
-- **QT17: XẾP HẠNG HỘI NGHỊ, TẠP CHÍ**
-
-  [Bài làm](Week2/QT17.md)
+- [x] [QT17: XẾP HẠNG HỘI NGHỊ, TẠP CHÍ](Week2/QT17.md)
 
 - **QT18: SỬ DỤNG CONNECTEDPAPERS**
 

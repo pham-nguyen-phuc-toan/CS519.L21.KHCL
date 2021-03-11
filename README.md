@@ -27,7 +27,7 @@
 
 - **QT16: PHẦN MỀM QUẢN LÝ TÀI LIỆU THAM KHẢO VÀ TRÍCH DẪN**
 
-- **QT17: XẾP HẠNG HỘI NGHI, TẠP CHÍ**
+- **QT17: XẾP HẠNG HỘI NGHỊ, TẠP CHÍ**
 
 - **QT18: SỬ DỤNG CONNECTEDPAPERS**
 

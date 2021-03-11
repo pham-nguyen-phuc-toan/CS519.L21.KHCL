@@ -29,6 +29,8 @@
 
 - **QT17: XẾP HẠNG HỘI NGHỊ, TẠP CHÍ**
 
+  [Bài làm](Week2/QT17.md)
+
 - **QT18: SỬ DỤNG CONNECTEDPAPERS**
 
 - **QT19: SỬ DỤNG PAPERSWITHCODE**

@@ -15,7 +15,7 @@
 
 - [x] [QT11: TÌM KIẾM GOOGLE NÂNG CAO](Week2/QT11.md)
 
-- [ ] QT12: CÁCH SỬ DỤNG GOOGLE SCHOLAR
+- [x] [QT12: CÁCH SỬ DỤNG GOOGLE SCHOLAR](Week2/QT12.md)
 
 - [ ] QT13: SITE LƯU TRỮ BÀI BÁO KH
 
@@ -27,6 +27,6 @@
 
 - [x] [QT17: XẾP HẠNG HỘI NGHỊ, TẠP CHÍ](Week2/QT17.md)
 
-- [ ] QT18: SỬ DỤNG CONNECTEDPAPERS
+- [x] [QT18: SỬ DỤNG CONNECTEDPAPERS](Week2/QT18.md)
 
 - [ ] QT19: SỬ DỤNG PAPERSWITHCODE

@@ -23,7 +23,7 @@
 
 - [ ] QT15: SỬ DỤNG OVERLEAF
 
-- [ ] QT16: PHẦN MỀM QUẢN LÝ TÀI LIỆU THAM KHẢO VÀ TRÍCH DẪN
+- [x] [QT16: PHẦN MỀM QUẢN LÝ TÀI LIỆU THAM KHẢO VÀ TRÍCH DẪN](Week2/QT16.md)
 
 - [x] [QT17: XẾP HẠNG HỘI NGHỊ, TẠP CHÍ](Week2/QT17.md)
 

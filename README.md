@@ -17,9 +17,9 @@
 
 - [x] [QT12: CÁCH SỬ DỤNG GOOGLE SCHOLAR](Week2/QT12.md)
 
-- [ ] QT13: SITE LƯU TRỮ BÀI BÁO KH
+- [x] [QT13: SITE LƯU TRỮ BÀI BÁO KH]](Week2/QT13.md)
 
-- [ ] QT14: TẠO MINDMAP LIÊN QUAN ĐẾN BÀI BÁO KH
+- [x] [QT14: TẠO MINDMAP LIÊN QUAN ĐẾN BÀI BÁO KH]](Week2/QT14.md)
 
 - [x] [QT15: SỬ DỤNG OVERLEAF](Week2/QT15.pdf)
 

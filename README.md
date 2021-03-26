@@ -30,3 +30,9 @@
 - [x] [QT18: SỬ DỤNG CONNECTEDPAPERS](Week2/QT18.md)
 
 - [x] [QT19: SỬ DỤNG PAPERSWITHCODE](Week2/QT19.md)
+
+### **Tuần 3**
+
+- [ ] QT20: CRITICAL THINKING - TƯ DUY PHẢN BIỆN LÀ GÌ?
+
+- [ ] QT21: CÁC RÀO CẢN CỦA TƯ DUY PHẢN BIỆN

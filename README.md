@@ -31,7 +31,7 @@
 
 - [x] [QT19: SỬ DỤNG PAPERSWITHCODE](Week2/QT19.md)
 
-### **Tuần 3**
+### **Tuần 4**
 
 - [ ] QT20: CRITICAL THINKING - TƯ DUY PHẢN BIỆN LÀ GÌ?
 

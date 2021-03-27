@@ -36,3 +36,5 @@
 - [ ] QT20: CRITICAL THINKING - TƯ DUY PHẢN BIỆN LÀ GÌ?
 
 - [ ] QT21: CÁC RÀO CẢN CỦA TƯ DUY PHẢN BIỆN
+
+- [ ] Câu hỏi của thầy Tiệp

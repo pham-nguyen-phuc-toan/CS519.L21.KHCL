@@ -33,7 +33,7 @@
 
 ### **Tuần 4**
 
-- [ ] QT20: CRITICAL THINKING - TƯ DUY PHẢN BIỆN LÀ GÌ?
+- [x] [QT20: CRITICAL THINKING - TƯ DUY PHẢN BIỆN LÀ GÌ?](Week4/QT20.md)
 
 - [ ] QT21: CÁC RÀO CẢN CỦA TƯ DUY PHẢN BIỆN
 

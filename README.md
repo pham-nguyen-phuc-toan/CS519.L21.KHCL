@@ -37,4 +37,4 @@
 
 - [x] [QT21: CÁC RÀO CẢN CỦA TƯ DUY PHẢN BIỆN](Week4/QT21.md)
 
-- [ ] Câu hỏi của thầy Tiệp
+- [x] [Câu hỏi tuần 4](Week4/cau-hoi-tuan-4.md)
